@@ -22,13 +22,14 @@ Jawels-Diamonds is a backend project designed to support jewelry management, sal
 
 ## Project Structure
 
-\\\`n/ (root)
-+-- src/            # Main source code (JavaScript)
-+-- public/         # Static assets (HTML, CSS, images)
-+-- scripts/        # Utility or automation scripts
-+-- docs/           # Documentation
-+-- ...             # Other directories and files
-\\\`n
+```
+/ (root)
+├── src/            # Main source code (JavaScript)
+├── public/         # Static assets (HTML, CSS, images)
+├── scripts/        # Utility or automation scripts
+├── docs/           # Documentation
+└── ...             # Other directories and files
+```
 ---
 
 ## Getting Started
